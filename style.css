@@ -1,0 +1,22 @@
+h1 {
+color:white;
+text-align:center;
+font-family:"Questrial";
+font-size:60px;
+
+}
+p,li{
+color:white;
+font-size:18px;
+font-family:"Arial",sans-serif;
+
+}
+body{
+background-color:#B8ECFF;
+
+
+}
+a{
+	font-size:35px;
+	color:#A008FF;
+}
