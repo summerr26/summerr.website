@@ -3,8 +3,8 @@ color:white;
 text-align:center;
 font-family:"Questrial";
 font-size:60px;
-
 }
+
 p,li{
 color:white;
 font-size:18px;
@@ -13,10 +13,43 @@ font-family:"Arial",sans-serif;
 }
 body{
 background-color:#B8ECFF;
-
-
 }
+h2{
+	color:white;
+	text-align:center;
+	font-size:30px;
+}
+
+
+
 a{
 	font-size:35px;
-	color:#A008FF;
+	color:#082499;
+}
+
+a:hover{
+	color:#FFBFF4;
+}
+
+#Smoothies{
+	background-color:#ECBAFF;
+}
+#Acai{
+	background-color:#FFC4ED;
+}
+
+.topnav{
+	background-color:#082499;
+	overflow: hidden;
+}
+.topnav a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	color:#FFBFF4;
 }
